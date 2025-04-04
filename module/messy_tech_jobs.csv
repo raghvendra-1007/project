@@ -1,0 +1,401 @@
+job_id,job_title,company_name,location,salary,employment_type,skills,posting_date
+JID-2652,Frontend Developer,,"Austin, TX",Negotiable,Full-time,"AWS, TensorFlow, Python, C++",3/23/2024
+JID-3040,Product Manager,DataWave,"Los Angeles, CA",$51k,Full-time,"SQL, React",9/25/2023
+JID-4931,AI Engineer,CyberSecure,"Austin, TX",,Contract,"SQL, React",10-10-2023
+JID-9015,Full Stack Developer,DataWave,"Seattle, WA",,Contract,"TensorFlow, React, SQL",10-05-2024
+JID-3689,Product Manager,,Remote,$56k,Full-time,"Kubernetes, Node.js, Docker, React, Java",8/26/2024
+JID-5033,Full Stack Developer,CodeBase,"Chicago, IL",$73k,Part-time,"Kubernetes, Docker, C++, Python",3/19/2023
+JID-6877,Backend Developer,DevMasters,"New York, NY",,Contract,,11/25/2025
+JID-4431,Cybersecurity Analyst,DevMasters,Remote,$135k,Full-time,"SQL, Node.js",08-05-2023
+JID-7305,Software Engineer,CloudNet,"San Francisco, CA",$57k,Full-time,"SQL, Python, C++",10/22/2025
+JID-1770,Cybersecurity Analyst,InnovateX,"Seattle, WA",Negotiable,Part-time,"React, Python, Node.js, C++, SQL",6/25/2024
+JID-4868,Full Stack Developer,CyberSecure,"Los Angeles, CA",,Part-time,"Java, TensorFlow, AWS, SQL",7/21/2024
+JID-7818,Cloud Architect,CodeBase,"Boston, MA",Negotiable,Full-time,"Java, Kubernetes",03-12-2025
+JID-8080,Frontend Developer,CloudNet,"Chicago, IL",$141k,Part-time,"SQL, AWS",08-12-2025
+JID-2913,Frontend Developer,DevMasters,"Chicago, IL",$64k,Part-time,"TensorFlow, AWS, C++, Kubernetes, Java",1/14/2023
+JID-5571,DevOps Engineer,,"Seattle, WA",$131k,Full-time,"Kubernetes, Node.js, SQL, React",6/26/2024
+JID-6466,Cybersecurity Analyst,TechCorp,"Seattle, WA",Negotiable,Contract,"AWS, Python, Node.js, React",03-10-2024
+JID-3302,Software Engineer,DevMasters,"Los Angeles, CA",$95k,Part-time,"AWS, Java, Node.js",04-10-2024
+JID-8786,DevOps Engineer,DataWave,"Los Angeles, CA",,Full-time,"SQL, Node.js, React, TensorFlow",1/27/2023
+JID-4247,Data Scientist,AI Solutions,"New York, NY",,Full-time,"C++, TensorFlow, SQL, Java",4/14/2024
+JID-5526,Cybersecurity Analyst,DataWave,"San Francisco, CA",,Part-time,"Java, TensorFlow, React, C++",7/20/2024
+JID-6281,Data Scientist,TechCorp,Remote,Negotiable,Part-time,"TensorFlow, Node.js",12-09-2024
+JID-3080,Cybersecurity Analyst,CloudNet,Remote,Negotiable,Part-time,"Kubernetes, Docker, AWS, Node.js, TensorFlow",10/23/2023
+JID-9300,Cloud Architect,DataWave,Unknown,,Part-time,,4/15/2024
+JID-1367,Product Manager,AI Solutions,"Los Angeles, CA",$141k,Part-time,"TensorFlow, AWS, SQL",02-11-2024
+JID-8238,Cybersecurity Analyst,CodeBase,"Boston, MA",Negotiable,Part-time,"Docker, Node.js, React, Java, Python",07-11-2023
+JID-4257,Data Scientist,WebWorld,"Seattle, WA",$103k,Part-time,"TensorFlow, Python, React",04-05-2023
+JID-6790,DevOps Engineer,InnovateX,"Austin, TX",$128k,Full-time,"AWS, React, Java",8/27/2025
+JID-9111,AI Engineer,AI Solutions,"Chicago, IL",,,"Node.js, Java, Python, Kubernetes",7/14/2025
+JID-5560,Backend Developer,ML Insights,"Austin, TX",$67k,Contract,"Kubernetes, React",7/26/2024
+JID-4893,DevOps Engineer,CyberSecure,"Boston, MA",,Full-time,"SQL, AWS, Kubernetes, C++",7/17/2025
+JID-6242,Cybersecurity Analyst,ML Insights,"San Francisco, CA",Negotiable,Contract,"TensorFlow, Python",07-09-2023
+JID-7655,Product Manager,DevMasters,Remote,,Part-time,"SQL, AWS, Python, TensorFlow, Kubernetes",12/20/2023
+JID-5043,Software Engineer,DataWave,Remote,$133k,Full-time,"React, AWS",5/27/2023
+JID-5100,Cybersecurity Analyst,CloudNet,"Los Angeles, CA",$70k,Full-time,"AWS, SQL, Kubernetes, Python, React",07-01-2024
+JID-4182,AI Engineer,WebWorld,"Los Angeles, CA",,,"React, Python, Kubernetes, C++",04-11-2023
+JID-5178,Backend Developer,InnovateX,"Boston, MA",,Part-time,,2/13/2024
+JID-3053,DevOps Engineer,,"San Francisco, CA",$70k,Full-time,"Python, TensorFlow, Docker",09-02-2025
+JID-4759,AI Engineer,DataWave,Remote,,Contract,"AWS, C++, React, Docker",07-04-2024
+JID-4517,Backend Developer,CyberSecure,"Chicago, IL",Negotiable,Part-time,"AWS, SQL, C++, TensorFlow",11/22/2025
+JID-2703,Full Stack Developer,InnovateX,"Austin, TX",Negotiable,Part-time,"Java, React, C++, Python",04-03-2024
+JID-5393,Frontend Developer,CodeBase,Remote,,Contract,"SQL, Java, AWS, Docker",09-09-2025
+JID-1500,Data Scientist,AI Solutions,Remote,$92k,Full-time,"Java, React, Node.js, Docker, TensorFlow",11-04-2023
+JID-6592,Cloud Architect,InnovateX,"Austin, TX",Negotiable,Full-time,,05-12-2023
+JID-2985,Full Stack Developer,CodeBase,"Boston, MA",,Contract,"Kubernetes, AWS",9/27/2023
+JID-5391,Data Scientist,AI Solutions,"San Francisco, CA",Negotiable,,"Docker, Java",2/13/2023
+JID-8072,Cybersecurity Analyst,WebWorld,"San Francisco, CA",$54k,Full-time,"React, SQL, Docker, Python, TensorFlow",1/23/2024
+JID-4590,Backend Developer,WebWorld,"San Francisco, CA",,Contract,,6/28/2024
+JID-8095,Software Engineer,TechCorp,"San Francisco, CA",,Full-time,"Node.js, Docker, Java",07-11-2025
+JID-8540,AI Engineer,DevMasters,"Seattle, WA",$133k,Part-time,"Node.js, SQL, C++",6/15/2025
+JID-3885,Frontend Developer,CodeBase,"Seattle, WA",,Contract,"Kubernetes, Java, Node.js",09-09-2025
+JID-6209,DevOps Engineer,InnovateX,"Seattle, WA",$143k,Part-time,"TensorFlow, React, AWS",03-05-2024
+JID-2505,Product Manager,InnovateX,Unknown,Negotiable,Contract,"Docker, C++",10/27/2023
+JID-8951,Cybersecurity Analyst,WebWorld,"New York, NY",,Full-time,"C++, Kubernetes, React",11/28/2024
+JID-3033,Product Manager,ML Insights,"New York, NY",,Part-time,"Node.js, Kubernetes, AWS, React, TensorFlow",10/18/2025
+JID-3027,Full Stack Developer,WebWorld,"Chicago, IL",Negotiable,Full-time,"React, Node.js, SQL, C++, Docker",07-12-2025
+JID-3850,DevOps Engineer,CloudNet,"Los Angeles, CA",,Full-time,"Docker, Python, Kubernetes, TensorFlow, SQL",6/24/2025
+JID-8977,Software Engineer,DevMasters,"New York, NY",$102k,Part-time,"Docker, AWS, Node.js, React",1/14/2025
+JID-7047,Product Manager,AI Solutions,"Los Angeles, CA",,Part-time,"AWS, SQL, Kubernetes, TensorFlow, C++",2/18/2023
+JID-7654,DevOps Engineer,DataWave,"San Francisco, CA",Negotiable,Full-time,"React, TensorFlow, Node.js",06-12-2025
+JID-7323,Frontend Developer,DevMasters,"Los Angeles, CA",,Full-time,"TensorFlow, Kubernetes, Docker, Node.js, C++",09-11-2023
+JID-7348,DevOps Engineer,CloudNet,"Seattle, WA",,Part-time,"Node.js, TensorFlow, C++, AWS",07-08-2023
+JID-7387,AI Engineer,WebWorld,"Boston, MA",,Contract,"C++, Node.js, Java",05-02-2024
+JID-1418,Cybersecurity Analyst,InnovateX,Unknown,,Full-time,"SQL, Kubernetes",1/20/2025
+JID-9573,Data Scientist,DevMasters,"New York, NY",Negotiable,Contract,"AWS, Kubernetes",11-08-2023
+JID-3515,Cloud Architect,CloudNet,"New York, NY",$64k,Part-time,"Java, React",11/13/2024
+JID-9213,Cybersecurity Analyst,DataWave,"Los Angeles, CA",$145k,Contract,"Java, Python",08-02-2023
+JID-4167,Frontend Developer,ML Insights,"San Francisco, CA",$61k,Full-time,"TensorFlow, C++, Kubernetes, Docker",3/24/2024
+JID-5050,Software Engineer,DataWave,Unknown,$114k,Full-time,"C++, TensorFlow, Kubernetes, Python, Docker",6/17/2025
+JID-9813,Full Stack Developer,CyberSecure,"New York, NY",,Contract,"TensorFlow, React, Python, Kubernetes, SQL",07-12-2024
+JID-6778,DevOps Engineer,CodeBase,"New York, NY",,Full-time,"Python, React, Java",6/22/2025
+JID-3200,DevOps Engineer,TechCorp,"Austin, TX",Negotiable,Contract,,4/25/2023
+JID-1454,Cybersecurity Analyst,WebWorld,"Austin, TX",,Contract,"SQL, Node.js",10/13/2024
+JID-6860,Software Engineer,InnovateX,"San Francisco, CA",,Contract,"React, AWS",7/22/2024
+JID-7117,Cybersecurity Analyst,DataWave,"Austin, TX",Negotiable,Contract,"SQL, TensorFlow, C++",05-05-2023
+JID-3109,DevOps Engineer,CodeBase,"New York, NY",Negotiable,Part-time,,12-12-2024
+JID-8450,Cybersecurity Analyst,CyberSecure,"Boston, MA",Negotiable,,"C++, Node.js, Docker, Kubernetes, AWS",4/16/2024
+JID-2591,Software Engineer,TechCorp,"Seattle, WA",$141k,Full-time,"SQL, React, AWS",10-04-2023
+JID-3542,Backend Developer,,"Austin, TX",,Part-time,"Docker, TensorFlow, React",03-02-2023
+JID-2081,Data Scientist,WebWorld,"Los Angeles, CA",,Full-time,"Node.js, React, AWS, Docker",7/27/2024
+JID-5694,DevOps Engineer,,Unknown,,Part-time,"Java, C++",7/17/2024
+JID-7387,AI Engineer,AI Solutions,"Chicago, IL",$122k,Full-time,"Java, SQL, Node.js, Python, Kubernetes",12/14/2023
+JID-7379,Data Scientist,CyberSecure,Unknown,Negotiable,Full-time,"TensorFlow, Java, Node.js",08-02-2024
+JID-3627,DevOps Engineer,CloudNet,"San Francisco, CA",,Part-time,"Docker, Python, TensorFlow, C++, React",7/28/2024
+JID-6838,AI Engineer,AI Solutions,"Boston, MA",,Full-time,"Python, React, Java, AWS, Kubernetes",09-09-2025
+JID-7670,Backend Developer,DataWave,"Chicago, IL",Negotiable,Part-time,"Java, Node.js, Docker, React, AWS",11/26/2023
+JID-5531,Software Engineer,CodeBase,"Seattle, WA",,Full-time,"Docker, SQL, Python",11-10-2024
+JID-2530,Full Stack Developer,,"New York, NY",,Contract,"Kubernetes, SQL, AWS",3/13/2023
+JID-8631,Software Engineer,CodeBase,"Seattle, WA",Negotiable,Part-time,"Java, Node.js, React, Docker",11/25/2024
+JID-5057,Frontend Developer,CyberSecure,"Chicago, IL",Negotiable,Full-time,"Python, Java, Node.js",12-05-2024
+JID-7695,Data Scientist,CloudNet,"Austin, TX",Negotiable,Part-time,"Kubernetes, TensorFlow, React, Node.js",03-04-2024
+JID-2995,DevOps Engineer,DataWave,"Seattle, WA",Negotiable,Full-time,"TensorFlow, AWS, React, Node.js",01-09-2023
+JID-5253,Full Stack Developer,TechCorp,"New York, NY",Negotiable,Contract,"Docker, Python, Kubernetes, SQL, AWS",12/23/2023
+JID-2216,Frontend Developer,WebWorld,"Chicago, IL",,Part-time,"React, Node.js, Java",2/25/2023
+JID-2850,Backend Developer,,"Chicago, IL",$50k,Contract,"AWS, SQL, C++",01-06-2023
+JID-5799,DevOps Engineer,AI Solutions,"Boston, MA",,Contract,"TensorFlow, React, AWS, Docker",2/19/2024
+JID-2071,Full Stack Developer,InnovateX,"Chicago, IL",,Full-time,"C++, Java, Kubernetes, TensorFlow, AWS",12-08-2023
+JID-3605,Full Stack Developer,TechCorp,"New York, NY",,Contract,"SQL, TensorFlow, C++",01-12-2023
+JID-1826,Cybersecurity Analyst,CodeBase,"Boston, MA",$65k,Part-time,"Node.js, Java, Docker, SQL, AWS",09-03-2024
+JID-8111,Backend Developer,AI Solutions,"San Francisco, CA",Negotiable,Contract,"AWS, Java, C++",6/23/2025
+JID-7231,Cloud Architect,InnovateX,"Seattle, WA",,Part-time,"TensorFlow, Kubernetes",1/26/2025
+JID-8153,Frontend Developer,InnovateX,"Los Angeles, CA",,Contract,"Node.js, TensorFlow",6/24/2024
+JID-5651,Cloud Architect,InnovateX,"San Francisco, CA",Negotiable,Part-time,,5/20/2024
+JID-5341,Product Manager,DataWave,Unknown,Negotiable,Full-time,"Node.js, Python",2/16/2025
+JID-5444,Data Scientist,ML Insights,Unknown,$114k,Full-time,"Java, TensorFlow, C++, Kubernetes, React",10-06-2023
+JID-7733,Software Engineer,CloudNet,"Chicago, IL",Negotiable,Contract,"Node.js, Java, Python, Kubernetes",5/23/2025
+JID-5133,Backend Developer,DevMasters,"Seattle, WA",Negotiable,Part-time,"Java, React",8/15/2023
+JID-8414,AI Engineer,TechCorp,"Chicago, IL",Negotiable,Part-time,"Docker, SQL",12/18/2024
+JID-5179,Software Engineer,CodeBase,"Boston, MA",,Contract,"TensorFlow, Kubernetes, Docker",02-06-2023
+JID-4076,Backend Developer,DataWave,"Austin, TX",,Contract,"Docker, AWS, React, Java",9/15/2023
+JID-1620,Data Scientist,InnovateX,"Seattle, WA",$98k,,"Kubernetes, Java, Docker, AWS, TensorFlow",01-04-2024
+JID-5038,Product Manager,TechCorp,"Los Angeles, CA",,Full-time,"C++, Kubernetes, SQL, Python, AWS",3/18/2024
+JID-9005,AI Engineer,AI Solutions,"San Francisco, CA",,Part-time,"React, SQL, Java, AWS",3/16/2023
+JID-7672,Product Manager,WebWorld,"Seattle, WA",,Contract,"React, C++",12-09-2024
+JID-7280,Frontend Developer,CodeBase,"Chicago, IL",,Contract,"Kubernetes, AWS, Python, C++",06-05-2024
+JID-9119,Full Stack Developer,WebWorld,"Los Angeles, CA",$131k,Full-time,"React, TensorFlow",8/14/2023
+JID-1614,Cybersecurity Analyst,InnovateX,"New York, NY",,Contract,"C++, Node.js, Python",03-09-2025
+JID-4543,Product Manager,AI Solutions,"New York, NY",,,"C++, Node.js, TensorFlow, Java, Kubernetes",01-06-2023
+JID-6376,Software Engineer,InnovateX,"Boston, MA",,Contract,"Docker, C++, AWS, Node.js, TensorFlow",12-11-2023
+JID-5525,Frontend Developer,CyberSecure,"San Francisco, CA",,Part-time,,10/19/2025
+JID-7787,Frontend Developer,CloudNet,"New York, NY",Negotiable,Full-time,"C++, TensorFlow, Python",7/23/2024
+JID-2670,AI Engineer,CloudNet,"San Francisco, CA",,Part-time,"SQL, Python, TensorFlow, AWS",07-03-2023
+JID-5721,Cloud Architect,CloudNet,Unknown,Negotiable,Part-time,"Docker, Java, React, SQL, C++",7/28/2023
+JID-4951,Cybersecurity Analyst,DevMasters,"New York, NY",,Part-time,"Python, TensorFlow, SQL, C++",7/15/2024
+JID-2075,DevOps Engineer,DevMasters,"Seattle, WA",,Contract,"SQL, Docker, C++, AWS",11-05-2023
+JID-3063,Data Scientist,InnovateX,Unknown,,,"Java, Kubernetes, TensorFlow, AWS",12-02-2023
+JID-7546,Software Engineer,DevMasters,"Austin, TX",$91k,Full-time,"React, SQL",01-03-2025
+JID-9357,Software Engineer,ML Insights,"Seattle, WA",Negotiable,Full-time,"C++, Node.js, Kubernetes, Docker",9/16/2023
+JID-8197,Full Stack Developer,CloudNet,Remote,$127k,Contract,"Node.js, SQL",10-01-2023
+JID-2499,Software Engineer,DataWave,"Austin, TX",,Contract,"C++, SQL, TensorFlow, AWS",04-10-2025
+JID-2063,Data Scientist,CyberSecure,"Chicago, IL",,Contract,,5/15/2024
+JID-1932,AI Engineer,CyberSecure,"Los Angeles, CA",$88k,Part-time,"SQL, Kubernetes, AWS, TensorFlow",4/25/2023
+JID-7248,Data Scientist,WebWorld,"Chicago, IL",Negotiable,Contract,"SQL, TensorFlow, Python, Node.js",8/20/2024
+JID-1694,Cybersecurity Analyst,CyberSecure,"Chicago, IL",$60k,Full-time,"TensorFlow, React, AWS, SQL, Kubernetes",10/20/2023
+JID-6402,Data Scientist,DataWave,"Chicago, IL",,Part-time,"React, Node.js",12-04-2024
+JID-8237,Data Scientist,CloudNet,Unknown,,Contract,"Kubernetes, TensorFlow, React, C++",08-08-2024
+JID-8533,AI Engineer,CloudNet,"New York, NY",$95k,Full-time,"TensorFlow, Java, Docker, SQL",04-04-2024
+JID-5744,Frontend Developer,AI Solutions,"Los Angeles, CA",,Full-time,"SQL, AWS",11-06-2024
+JID-1356,Frontend Developer,ML Insights,"San Francisco, CA",,Contract,"Java, Python, SQL, Node.js, C++",7/27/2023
+JID-9425,Backend Developer,DataWave,"New York, NY",Negotiable,Full-time,"Python, AWS, TensorFlow, Kubernetes, C++",02-05-2025
+JID-1905,Data Scientist,TechCorp,Remote,,Full-time,"Python, Java",5/17/2023
+JID-3890,Backend Developer,AI Solutions,"Seattle, WA",,Contract,"Docker, Python, Node.js",07-11-2025
+JID-3130,Software Engineer,CyberSecure,Unknown,Negotiable,Part-time,"Java, AWS",09-08-2025
+JID-8700,Full Stack Developer,CloudNet,Remote,$74k,Full-time,"Kubernetes, AWS",04-12-2025
+JID-5115,Cloud Architect,TechCorp,"New York, NY",Negotiable,Contract,"SQL, AWS, C++, Docker, Kubernetes",10-06-2024
+JID-6056,Cybersecurity Analyst,CodeBase,"San Francisco, CA",,Part-time,"React, AWS, Docker",2/17/2024
+JID-1805,DevOps Engineer,CyberSecure,"Austin, TX",$127k,Part-time,"TensorFlow, Node.js, C++, SQL, React",10-05-2023
+JID-8928,Cloud Architect,,"Austin, TX",,Part-time,"C++, Node.js, SQL, AWS",03-01-2025
+JID-5240,Software Engineer,WebWorld,Unknown,Negotiable,Contract,"Python, Docker, TensorFlow, SQL, C++",8/28/2023
+JID-7668,Backend Developer,ML Insights,"Los Angeles, CA",,Contract,"Node.js, C++, Java, Docker, Kubernetes",11/19/2025
+JID-8096,Cybersecurity Analyst,InnovateX,"Seattle, WA",$81k,Full-time,,04-07-2023
+JID-5873,Frontend Developer,TechCorp,"New York, NY",Negotiable,Part-time,"Java, C++, React, Kubernetes",6/17/2024
+JID-2175,Full Stack Developer,CyberSecure,"San Francisco, CA",$123k,Part-time,"React, Java, AWS",11-04-2023
+JID-9398,Backend Developer,CloudNet,"Chicago, IL",$73k,Part-time,"TensorFlow, Node.js",2/24/2025
+JID-7607,Cybersecurity Analyst,TechCorp,"San Francisco, CA",,Part-time,"Kubernetes, Docker",08-09-2024
+JID-8704,Data Scientist,CloudNet,"San Francisco, CA",,Part-time,"AWS, Kubernetes, TensorFlow, Node.js",10/25/2025
+JID-5077,Cybersecurity Analyst,AI Solutions,Remote,Negotiable,Full-time,"Python, React, C++, Docker, Kubernetes",08-12-2023
+JID-6805,Software Engineer,CodeBase,"Seattle, WA",,Contract,"React, Python, Java",1/16/2025
+JID-3287,Cybersecurity Analyst,CloudNet,Remote,,Full-time,"Node.js, Python, React",02-07-2023
+JID-9617,Full Stack Developer,TechCorp,"Boston, MA",Negotiable,Part-time,"SQL, TensorFlow",7/21/2024
+JID-8098,DevOps Engineer,CodeBase,"New York, NY",,Full-time,"Kubernetes, Node.js, C++, TensorFlow",11-03-2024
+JID-5081,Full Stack Developer,CyberSecure,"San Francisco, CA",,Part-time,"Kubernetes, SQL, Java",3/28/2024
+JID-2098,Backend Developer,DataWave,"New York, NY",,Full-time,"Java, AWS, Docker, C++",11/21/2024
+JID-5800,Cybersecurity Analyst,TechCorp,"Boston, MA",Negotiable,Full-time,"C++, React, Docker",10-10-2024
+JID-9686,Cloud Architect,CloudNet,"Los Angeles, CA",,Part-time,"TensorFlow, SQL, Node.js, React",07-06-2024
+JID-5554,Product Manager,ML Insights,"New York, NY",$66k,Full-time,"SQL, TensorFlow",10/13/2023
+JID-7869,DevOps Engineer,WebWorld,Remote,,,"Node.js, TensorFlow, AWS, SQL",3/15/2024
+JID-4650,DevOps Engineer,DataWave,"Austin, TX",,Full-time,"React, SQL, TensorFlow, Java, Node.js",12/18/2024
+JID-6222,Full Stack Developer,WebWorld,"Los Angeles, CA",Negotiable,Contract,"SQL, AWS, Node.js, Kubernetes, Docker",1/23/2024
+JID-9184,Backend Developer,InnovateX,"Austin, TX",$62k,Part-time,"AWS, C++, React, Java",8/14/2023
+JID-4403,Backend Developer,CodeBase,Remote,Negotiable,Full-time,"TensorFlow, AWS, React",08-03-2023
+JID-5755,Cloud Architect,AI Solutions,"Los Angeles, CA",,Part-time,"Java, C++, Python",3/14/2025
+JID-8649,Full Stack Developer,AI Solutions,"Seattle, WA",,Contract,"Java, TensorFlow, AWS, Python",08-07-2023
+JID-6162,Cybersecurity Analyst,CyberSecure,"New York, NY",Negotiable,Contract,"SQL, Node.js",2/28/2023
+JID-4042,Cybersecurity Analyst,CyberSecure,"San Francisco, CA",Negotiable,Contract,"Java, React, Docker, AWS",04-01-2024
+JID-6162,Backend Developer,DataWave,"Boston, MA",$98k,Part-time,"C++, Kubernetes, Node.js, Python, TensorFlow",02-03-2025
+JID-4641,Cloud Architect,TechCorp,Unknown,$138k,Part-time,"Java, AWS, React, C++, Docker",4/14/2025
+JID-2653,Product Manager,CyberSecure,"Boston, MA",,Contract,"Java, React, C++, SQL, Node.js",12/14/2025
+JID-5745,Data Scientist,ML Insights,Remote,,Contract,"TensorFlow, C++, React",4/21/2023
+JID-4793,AI Engineer,AI Solutions,"Los Angeles, CA",$140k,Part-time,,3/25/2025
+JID-6175,Cloud Architect,CyberSecure,"Boston, MA",,Part-time,"React, AWS, Python",04-10-2025
+JID-4780,Backend Developer,ML Insights,"Los Angeles, CA",$95k,Full-time,"React, Node.js, SQL, Docker, Python",9/14/2025
+JID-1539,Frontend Developer,InnovateX,"Boston, MA",,Contract,"React, Docker",5/22/2025
+JID-7613,Product Manager,WebWorld,Remote,$150k,Part-time,"Java, AWS",6/22/2024
+JID-4959,DevOps Engineer,CloudNet,"Chicago, IL",,Part-time,"Node.js, Java",10-02-2024
+JID-5954,DevOps Engineer,DataWave,Remote,Negotiable,Full-time,"Docker, C++, Java",12/19/2023
+JID-2752,Backend Developer,DataWave,"Seattle, WA",,Part-time,"TensorFlow, Java",9/27/2024
+JID-3719,Product Manager,InnovateX,Unknown,,Full-time,"Kubernetes, TensorFlow, Python",06-05-2023
+JID-1002,DevOps Engineer,WebWorld,Unknown,$92k,Contract,"React, Java, Kubernetes",01-02-2025
+JID-4848,Cybersecurity Analyst,DevMasters,Remote,Negotiable,Contract,"React, SQL",3/25/2025
+JID-6424,Frontend Developer,CodeBase,"Chicago, IL",$80k,Part-time,"TensorFlow, SQL, C++",1/27/2025
+JID-9582,Frontend Developer,DataWave,"Boston, MA",$141k,Part-time,"Node.js, SQL",05-04-2025
+JID-9169,Frontend Developer,WebWorld,"Los Angeles, CA",,Full-time,"React, AWS, Kubernetes, Python",12/23/2023
+JID-1519,AI Engineer,WebWorld,"Chicago, IL",$150k,Contract,"Java, Docker, Python, C++",9/19/2023
+JID-5014,DevOps Engineer,InnovateX,"Austin, TX",Negotiable,Part-time,"Python, TensorFlow, C++, Java, React",06-05-2025
+JID-4666,Backend Developer,ML Insights,"Seattle, WA",,Contract,"React, AWS, C++, SQL",2/19/2024
+JID-2424,Cloud Architect,DevMasters,"Chicago, IL",,Contract,,4/27/2023
+JID-1495,Frontend Developer,ML Insights,Remote,,Contract,"Docker, C++",04-10-2023
+JID-7588,Cybersecurity Analyst,CodeBase,"Austin, TX",Negotiable,Contract,,11/13/2024
+JID-3719,Data Scientist,DevMasters,Remote,,Contract,"SQL, Kubernetes, Java, Node.js, React",10-05-2025
+JID-8103,DevOps Engineer,TechCorp,"Boston, MA",Negotiable,Part-time,"Java, Node.js",3/13/2023
+JID-1689,Backend Developer,CloudNet,"San Francisco, CA",Negotiable,Contract,"Java, TensorFlow, Kubernetes, SQL",01-12-2025
+JID-3365,Software Engineer,,"Los Angeles, CA",$91k,Part-time,"Node.js, Docker, C++, Python",1/13/2024
+JID-9329,Backend Developer,TechCorp,"Chicago, IL",Negotiable,Full-time,"SQL, Docker, React, TensorFlow",4/18/2023
+JID-1902,DevOps Engineer,TechCorp,Remote,Negotiable,Contract,,06-07-2025
+JID-9119,Backend Developer,TechCorp,"San Francisco, CA",$115k,Contract,"Docker, React, Kubernetes",11/28/2023
+JID-3010,AI Engineer,CodeBase,"Seattle, WA",,Contract,"SQL, Kubernetes, React",02-08-2025
+JID-2282,Software Engineer,InnovateX,"New York, NY",,Part-time,"Docker, React, Node.js, C++",3/22/2024
+JID-2980,Software Engineer,AI Solutions,"Austin, TX",,Part-time,"Python, TensorFlow",12-02-2024
+JID-4187,AI Engineer,AI Solutions,Remote,Negotiable,Part-time,"Kubernetes, Python, React, TensorFlow, C++",05-02-2023
+JID-4970,Backend Developer,WebWorld,"San Francisco, CA",,Part-time,"Docker, Kubernetes, React, C++",03-03-2023
+JID-3342,Cybersecurity Analyst,CyberSecure,"Austin, TX",$58k,Full-time,,11-04-2023
+JID-8210,Cybersecurity Analyst,CyberSecure,Remote,$93k,Full-time,"Python, Node.js, Java",02-04-2024
+JID-6689,Cybersecurity Analyst,DataWave,"Austin, TX",Negotiable,Part-time,"Node.js, Kubernetes, React, Java, Python",04-08-2025
+JID-8499,Full Stack Developer,AI Solutions,"San Francisco, CA",,Full-time,"Kubernetes, Node.js, Python, Docker",6/24/2023
+JID-1893,Full Stack Developer,AI Solutions,"Boston, MA",$62k,Full-time,"Docker, Python, Node.js",8/27/2023
+JID-4697,Cloud Architect,CodeBase,Remote,Negotiable,,"Docker, TensorFlow, AWS, Java, Node.js",4/27/2023
+JID-5569,DevOps Engineer,DevMasters,"San Francisco, CA",,Full-time,"C++, Docker, Kubernetes, Java, SQL",7/23/2023
+JID-3946,Frontend Developer,CyberSecure,"Austin, TX",Negotiable,Full-time,"Kubernetes, Python, Node.js, TensorFlow, React",1/19/2025
+JID-4917,Data Scientist,ML Insights,"Seattle, WA",$71k,Contract,"Kubernetes, TensorFlow, C++, SQL",07-08-2024
+JID-8866,DevOps Engineer,,Remote,,Part-time,"Docker, SQL, AWS, React, Java",05-03-2025
+JID-9724,Frontend Developer,ML Insights,"New York, NY",,Contract,"Python, Java, AWS",10-09-2023
+JID-9079,Frontend Developer,InnovateX,Remote,$99k,Contract,,04-11-2023
+JID-6724,Product Manager,InnovateX,"Chicago, IL",,Full-time,"TensorFlow, Python",8/22/2023
+JID-4427,Product Manager,CodeBase,Remote,$94k,Full-time,"AWS, SQL, Kubernetes",1/14/2024
+JID-9698,Cloud Architect,ML Insights,"Austin, TX",$61k,Contract,,3/21/2025
+JID-8097,AI Engineer,InnovateX,"Los Angeles, CA",,,"Kubernetes, TensorFlow, C++, React",11-10-2025
+JID-6137,Frontend Developer,CyberSecure,"Austin, TX",$132k,Full-time,"Java, Kubernetes, AWS, SQL, C++",07-11-2023
+JID-9442,Data Scientist,CyberSecure,"New York, NY",,,"AWS, TensorFlow, Docker, C++, Python",12/23/2023
+JID-2403,AI Engineer,CyberSecure,Remote,,Contract,"Kubernetes, Java, Node.js, C++, Docker",6/20/2024
+JID-9853,Data Scientist,CloudNet,"San Francisco, CA",,Part-time,"Docker, TensorFlow, Kubernetes, Node.js, C++",10-03-2023
+JID-4380,Cloud Architect,AI Solutions,"Boston, MA",Negotiable,Contract,"Java, Python, Docker, AWS",10-05-2023
+JID-3809,Frontend Developer,InnovateX,"Boston, MA",Negotiable,Contract,"C++, SQL",5/18/2024
+JID-3260,Product Manager,CyberSecure,"Austin, TX",Negotiable,Full-time,"C++, Docker",04-09-2023
+JID-3123,DevOps Engineer,DevMasters,"Chicago, IL",Negotiable,Part-time,"C++, Docker",9/19/2025
+JID-7596,Backend Developer,ML Insights,"New York, NY",Negotiable,Full-time,"SQL, TensorFlow, Node.js",2/25/2024
+JID-1376,Frontend Developer,TechCorp,"San Francisco, CA",,Contract,"React, Kubernetes, Python, SQL",12/25/2025
+JID-4711,Backend Developer,DevMasters,"San Francisco, CA",,Contract,"Kubernetes, Python, TensorFlow",7/16/2023
+JID-5025,Data Scientist,CyberSecure,Remote,$133k,Full-time,"Kubernetes, C++, Python, TensorFlow",10-10-2025
+JID-7728,AI Engineer,InnovateX,"New York, NY",Negotiable,Contract,"SQL, AWS, Kubernetes, Docker",11/24/2023
+JID-7302,Cloud Architect,CodeBase,"Austin, TX",$102k,Contract,"React, Node.js, TensorFlow",7/17/2024
+JID-7733,Cloud Architect,CloudNet,"Boston, MA",$128k,Part-time,,2/15/2025
+JID-5449,Software Engineer,ML Insights,"San Francisco, CA",$68k,Full-time,"Java, C++",11-10-2025
+JID-5040,Backend Developer,DataWave,"Seattle, WA",$50k,Contract,"Node.js, Kubernetes",9/24/2023
+JID-7948,Product Manager,CyberSecure,"San Francisco, CA",,Part-time,"React, Java, Docker, Node.js",10-11-2025
+JID-3481,DevOps Engineer,ML Insights,"New York, NY",$98k,Full-time,"React, C++, SQL, AWS",2/17/2024
+JID-9094,Product Manager,,"Austin, TX",$80k,Full-time,"C++, Docker, React, SQL, Java",2/21/2023
+JID-3300,Cloud Architect,TechCorp,"Seattle, WA",,Part-time,"Node.js, SQL, Docker",10/13/2023
+JID-3335,DevOps Engineer,CloudNet,"Chicago, IL",Negotiable,Contract,"Kubernetes, TensorFlow, React, Docker, Python",8/17/2024
+JID-2249,Software Engineer,CodeBase,"Austin, TX",Negotiable,Part-time,"C++, Docker, AWS, Java",11/27/2025
+JID-3326,Cybersecurity Analyst,ML Insights,"Los Angeles, CA",Negotiable,Part-time,"Python, Java, Node.js, C++, SQL",4/15/2025
+JID-7247,Cybersecurity Analyst,CyberSecure,Remote,$130k,Part-time,"AWS, React",03-10-2025
+JID-3177,DevOps Engineer,CyberSecure,"Los Angeles, CA",Negotiable,Full-time,"React, AWS, Kubernetes, Python, TensorFlow",1/14/2023
+JID-9686,Software Engineer,DevMasters,"Los Angeles, CA",,Contract,"Java, C++, Docker",02-05-2025
+JID-9007,Data Scientist,CodeBase,"Seattle, WA",,Part-time,,1/13/2023
+JID-3326,Full Stack Developer,WebWorld,"Seattle, WA",$121k,Full-time,,04-05-2023
+JID-9407,Full Stack Developer,CloudNet,"Los Angeles, CA",Negotiable,Contract,,06-03-2025
+JID-9528,Frontend Developer,CyberSecure,"Chicago, IL",,Full-time,"React, Docker, Node.js, TensorFlow, SQL",4/25/2023
+JID-3177,Software Engineer,DataWave,"New York, NY",Negotiable,Part-time,"C++, AWS",01-04-2024
+JID-4028,Software Engineer,AI Solutions,"San Francisco, CA",$139k,Part-time,"React, Docker, C++, AWS",12/13/2025
+JID-5731,Cybersecurity Analyst,InnovateX,"Seattle, WA",$57k,Contract,"C++, Node.js, Java, Docker, Python",12-11-2025
+JID-9847,Full Stack Developer,TechCorp,"Los Angeles, CA",,Full-time,"C++, AWS, Java",07-05-2023
+JID-1366,Cybersecurity Analyst,CyberSecure,"Seattle, WA",,Full-time,,9/27/2023
+JID-8524,Cybersecurity Analyst,ML Insights,"New York, NY",Negotiable,Full-time,"Java, Node.js",4/19/2023
+JID-7340,Full Stack Developer,CloudNet,"Chicago, IL",,Part-time,,07-12-2024
+JID-7038,Full Stack Developer,CloudNet,"Chicago, IL",$133k,Part-time,"Kubernetes, Docker, React, AWS",05-01-2024
+JID-5680,Backend Developer,AI Solutions,"Los Angeles, CA",$81k,Full-time,"Python, TensorFlow, C++, AWS, SQL",7/13/2024
+JID-9441,Backend Developer,DevMasters,"Austin, TX",,Full-time,"Node.js, Docker, React, Java",5/19/2023
+JID-4504,Backend Developer,CloudNet,"New York, NY",,Full-time,"Java, Node.js, Docker, Python, SQL",07-09-2024
+JID-9901,Full Stack Developer,CloudNet,Remote,Negotiable,Contract,"AWS, Node.js",3/15/2024
+JID-6432,Full Stack Developer,InnovateX,"New York, NY",$140k,Part-time,"Java, SQL, Node.js, TensorFlow, Python",3/13/2025
+JID-2411,DevOps Engineer,CloudNet,"Chicago, IL",,Full-time,"Python, Node.js",2/22/2024
+JID-9566,Cloud Architect,CloudNet,"San Francisco, CA",,Contract,"React, Python, AWS",10/19/2023
+JID-3196,DevOps Engineer,CyberSecure,"Austin, TX",Negotiable,Part-time,"React, Docker",12/18/2023
+JID-4039,Cybersecurity Analyst,ML Insights,"Boston, MA",,Full-time,,03-06-2024
+JID-8506,DevOps Engineer,TechCorp,"New York, NY",,Full-time,"SQL, TensorFlow, Docker, Python, AWS",10-03-2025
+JID-9991,Frontend Developer,TechCorp,"Los Angeles, CA",Negotiable,Contract,"Docker, React, Kubernetes",05-05-2025
+JID-7056,Software Engineer,,"San Francisco, CA",Negotiable,Full-time,"Kubernetes, Node.js",07-11-2025
+JID-3838,Cloud Architect,TechCorp,"Seattle, WA",$64k,Full-time,"SQL, C++, AWS, Docker, Kubernetes",05-03-2024
+JID-2471,Software Engineer,CloudNet,"Austin, TX",$81k,Contract,"React, Docker, SQL, Java",04-09-2025
+JID-7283,Full Stack Developer,InnovateX,"Seattle, WA",,Contract,"React, AWS, Kubernetes",08-03-2023
+JID-2614,DevOps Engineer,InnovateX,"Austin, TX",,Part-time,"Python, Docker",2/17/2025
+JID-7997,Frontend Developer,WebWorld,"San Francisco, CA",Negotiable,Full-time,"Python, C++, Docker",6/15/2023
+JID-6854,Software Engineer,DevMasters,"Austin, TX",Negotiable,Part-time,"C++, React, SQL, Java, Node.js",07-02-2023
+JID-8808,Cloud Architect,DevMasters,"San Francisco, CA",$112k,Contract,"AWS, Node.js, React, C++",06-11-2023
+JID-7599,Backend Developer,ML Insights,"New York, NY",,Full-time,"Node.js, SQL, TensorFlow, Kubernetes, AWS",6/24/2023
+JID-6911,Cloud Architect,ML Insights,"Los Angeles, CA",Negotiable,Part-time,"AWS, TensorFlow",03-06-2023
+JID-2690,Data Scientist,CloudNet,"San Francisco, CA",,Full-time,"Kubernetes, React",6/26/2024
+JID-5163,Cloud Architect,ML Insights,Remote,,,"SQL, Python, React, Java, C++",6/19/2025
+JID-4627,Frontend Developer,DevMasters,Remote,,Contract,"Java, Docker, Python",4/18/2024
+JID-3414,Cybersecurity Analyst,DataWave,Unknown,,Part-time,"AWS, Kubernetes, C++, Python",6/14/2024
+JID-9477,Software Engineer,TechCorp,"Austin, TX",,Part-time,"Java, AWS",10/26/2025
+JID-9678,Cybersecurity Analyst,,"Austin, TX",$139k,Contract,"React, AWS, Kubernetes, SQL, TensorFlow",5/15/2025
+JID-1328,Full Stack Developer,CodeBase,"San Francisco, CA",Negotiable,Part-time,"AWS, Docker",10-03-2024
+JID-7276,Frontend Developer,WebWorld,"Boston, MA",,Full-time,"React, C++",01-12-2024
+JID-3940,AI Engineer,AI Solutions,"Seattle, WA",Negotiable,Full-time,"Kubernetes, Node.js, C++",4/27/2024
+JID-7295,Data Scientist,CodeBase,"San Francisco, CA",,Full-time,"SQL, Python",07-08-2025
+JID-3504,Backend Developer,CodeBase,"Austin, TX",,Contract,"C++, Docker, Java, AWS, Kubernetes",11/24/2025
+JID-4801,Product Manager,ML Insights,"Boston, MA",$71k,Full-time,"Docker, Java",4/19/2024
+JID-3845,Cybersecurity Analyst,ML Insights,"Boston, MA",,Full-time,"React, AWS",09-02-2024
+JID-6932,Software Engineer,CodeBase,"San Francisco, CA",,Contract,"TensorFlow, Java, AWS",6/13/2024
+JID-5536,Frontend Developer,DataWave,"San Francisco, CA",,Full-time,"Node.js, TensorFlow, React, Kubernetes",2/28/2025
+JID-8059,Product Manager,WebWorld,"Austin, TX",Negotiable,Part-time,"SQL, AWS, C++, Kubernetes",10/18/2023
+JID-1769,Data Scientist,CodeBase,"San Francisco, CA",Negotiable,Part-time,"React, Python, Node.js",09-12-2025
+JID-6936,Cybersecurity Analyst,DataWave,"Seattle, WA",$107k,Part-time,"Node.js, React",04-04-2024
+JID-7220,Cybersecurity Analyst,ML Insights,"Boston, MA",Negotiable,Part-time,,12-04-2024
+JID-8831,Software Engineer,ML Insights,"Boston, MA",Negotiable,Contract,"C++, Node.js, Docker, Java, Python",04-07-2023
+JID-2922,Product Manager,AI Solutions,"New York, NY",Negotiable,Part-time,"Node.js, Kubernetes, TensorFlow, Java",06-02-2023
+JID-3147,Software Engineer,AI Solutions,"Los Angeles, CA",$139k,Part-time,,01-12-2025
+JID-3502,AI Engineer,InnovateX,"Chicago, IL",Negotiable,Contract,"Node.js, TensorFlow, Kubernetes, Python, React",7/22/2025
+JID-7139,Product Manager,CodeBase,Unknown,Negotiable,Part-time,"C++, Docker, Java, Python, React",8/27/2024
+JID-5418,Product Manager,InnovateX,"Austin, TX",$64k,Full-time,"C++, AWS",5/20/2025
+JID-3862,Frontend Developer,DevMasters,"Boston, MA",$90k,Part-time,"Node.js, AWS",7/21/2023
+JID-7694,Cloud Architect,TechCorp,"Austin, TX",$59k,,"SQL, Node.js, Kubernetes, Java",06-01-2023
+JID-3839,AI Engineer,AI Solutions,"Boston, MA",$142k,Part-time,"Docker, C++, SQL, AWS",01-01-2024
+JID-8275,Software Engineer,CodeBase,"Chicago, IL",$150k,Part-time,"AWS, C++, React, SQL",04-07-2024
+JID-1872,AI Engineer,TechCorp,"New York, NY",,Contract,"TensorFlow, C++, React, Java",1/17/2024
+JID-6097,Cybersecurity Analyst,CyberSecure,"Seattle, WA",$60k,Part-time,,10-12-2025
+JID-1247,Cloud Architect,CloudNet,"Seattle, WA",Negotiable,Part-time,"Kubernetes, SQL, React, AWS",03-10-2024
+JID-7650,Software Engineer,WebWorld,"Los Angeles, CA",$133k,Part-time,"Python, SQL, AWS, React, Java",12-11-2025
+JID-5394,Cloud Architect,AI Solutions,"Seattle, WA",Negotiable,Full-time,,5/16/2024
+JID-8910,Cloud Architect,WebWorld,"New York, NY",$86k,Part-time,,09-12-2024
+JID-8640,Software Engineer,InnovateX,"Seattle, WA",$103k,Full-time,,3/20/2024
+JID-7944,Frontend Developer,CloudNet,"Seattle, WA",Negotiable,Part-time,"C++, Java, TensorFlow",9/28/2024
+JID-5078,Frontend Developer,ML Insights,"Boston, MA",,Contract,"Docker, Node.js, C++",10-05-2023
+JID-2007,Data Scientist,DevMasters,"Chicago, IL",$52k,Contract,"Node.js, Kubernetes, Java",10/24/2025
+JID-6434,Frontend Developer,CodeBase,"Austin, TX",,Full-time,"TensorFlow, SQL",1/22/2024
+JID-1783,Cloud Architect,DevMasters,"Los Angeles, CA",Negotiable,Full-time,"AWS, Java, Docker",1/21/2023
+JID-2279,Data Scientist,DataWave,"Austin, TX",Negotiable,Full-time,"AWS, Docker, Kubernetes",1/26/2024
+JID-6149,Backend Developer,,"Boston, MA",$119k,Contract,,2/23/2025
+JID-2571,Software Engineer,CyberSecure,Remote,,Contract,"Kubernetes, AWS, Java, Python, React",4/23/2024
+JID-6705,Data Scientist,InnovateX,"New York, NY",$71k,Part-time,"Java, Python, AWS, C++",10-06-2023
+JID-7367,Frontend Developer,DevMasters,"San Francisco, CA",$63k,Part-time,"TensorFlow, Java, C++",6/16/2024
+JID-3833,Product Manager,TechCorp,"Seattle, WA",$135k,Part-time,"C++, Java, AWS, React, Kubernetes",9/16/2025
+JID-3278,Full Stack Developer,WebWorld,"Los Angeles, CA",Negotiable,Full-time,"C++, AWS, Python",11/28/2025
+JID-8394,AI Engineer,DataWave,"Chicago, IL",$131k,Full-time,"Java, Docker, TensorFlow, C++, Python",01-01-2025
+JID-5961,Product Manager,CyberSecure,"Austin, TX",Negotiable,Contract,"Python, Java, SQL",10-06-2024
+JID-1656,Cloud Architect,AI Solutions,"Seattle, WA",,Full-time,"AWS, C++, TensorFlow",12/23/2024
+JID-3912,AI Engineer,WebWorld,"Austin, TX",$129k,Part-time,"Kubernetes, Node.js, Java, SQL",4/24/2023
+JID-7659,Software Engineer,InnovateX,"Seattle, WA",Negotiable,Full-time,"Java, AWS",07-01-2023
+JID-6317,Cloud Architect,TechCorp,"Los Angeles, CA",$52k,Part-time,"React, AWS, Java, Kubernetes, Python",12/27/2023
+JID-9969,Cloud Architect,CloudNet,"Boston, MA",$134k,Full-time,"C++, Python, SQL",01-09-2024
+JID-2383,Cloud Architect,DataWave,"New York, NY",,Part-time,"Kubernetes, TensorFlow, AWS",05-06-2025
+JID-5923,Frontend Developer,DataWave,"San Francisco, CA",Negotiable,Contract,"Node.js, Java",3/20/2024
+JID-7959,Product Manager,DataWave,"Chicago, IL",,Contract,"AWS, Python, Node.js, TensorFlow",02-10-2023
+JID-8349,Backend Developer,CyberSecure,"Chicago, IL",Negotiable,Full-time,"Kubernetes, Python, SQL, Node.js",9/16/2025
+JID-5191,Cybersecurity Analyst,,Remote,$135k,Part-time,"Node.js, Python, C++, SQL",4/17/2025
+JID-1409,Full Stack Developer,CloudNet,"Austin, TX",Negotiable,Part-time,"Python, C++",04-07-2023
+JID-9568,Frontend Developer,ML Insights,"Austin, TX",$96k,Part-time,"Node.js, TensorFlow, C++, Docker",10-10-2024
+JID-5282,DevOps Engineer,DataWave,"Los Angeles, CA",,Full-time,"TensorFlow, C++, SQL, AWS",09-02-2023
+JID-1139,Software Engineer,DataWave,Remote,$143k,Part-time,"Node.js, Docker",04-05-2023
+JID-6465,AI Engineer,ML Insights,"Los Angeles, CA",Negotiable,Part-time,"Java, C++",9/16/2024
+JID-7776,Cybersecurity Analyst,ML Insights,"San Francisco, CA",Negotiable,Full-time,"TensorFlow, AWS, Kubernetes, C++, Docker",11/21/2023
+JID-4163,Full Stack Developer,DataWave,"Seattle, WA",,Contract,,4/13/2025
+JID-5683,DevOps Engineer,WebWorld,"Boston, MA",$128k,Part-time,"Java, AWS, C++, SQL",6/20/2024
+JID-4207,Cloud Architect,DevMasters,Unknown,$88k,Contract,"SQL, Java, Node.js",8/18/2024
+JID-6788,Data Scientist,AI Solutions,"San Francisco, CA",,Part-time,"SQL, Docker, Kubernetes",10/24/2025
+JID-9542,Data Scientist,TechCorp,"Seattle, WA",Negotiable,,"React, Python, AWS",2/26/2023
+JID-4974,Product Manager,WebWorld,"New York, NY",,,"Java, React, TensorFlow, Python",09-01-2025
+JID-4022,Backend Developer,CloudNet,"Austin, TX",$122k,Full-time,"Python, TensorFlow, Docker, Kubernetes, Node.js",6/27/2024
+JID-9993,Product Manager,CloudNet,"New York, NY",,Contract,"C++, Docker, Java",4/25/2023
+JID-7672,Full Stack Developer,CyberSecure,"Boston, MA",,Part-time,"C++, Docker",6/25/2024
+JID-1806,Cybersecurity Analyst,CyberSecure,"Seattle, WA",Negotiable,Full-time,"TensorFlow, Kubernetes, Docker, Node.js, AWS",1/25/2025
+JID-7035,Frontend Developer,DataWave,"San Francisco, CA",Negotiable,Contract,"Node.js, Java, TensorFlow, AWS, Kubernetes",03-01-2023
+JID-1886,DevOps Engineer,AI Solutions,"Seattle, WA",,Full-time,"SQL, TensorFlow, C++, Kubernetes",04-10-2025
+JID-5495,Frontend Developer,DevMasters,"New York, NY",Negotiable,Part-time,"Python, React, Docker, AWS, Java",12-02-2023
+JID-4874,DevOps Engineer,CloudNet,"Boston, MA",Negotiable,Contract,"Node.js, SQL, Java, C++",7/20/2024
+JID-5410,Frontend Developer,WebWorld,Remote,Negotiable,Contract,"Node.js, C++, AWS",1/26/2024
+JID-4334,Cybersecurity Analyst,CyberSecure,"New York, NY",Negotiable,Part-time,,8/15/2023
+JID-8806,Product Manager,WebWorld,"San Francisco, CA",Negotiable,Contract,"Node.js, C++, Python, SQL, TensorFlow",03-03-2023
+JID-8884,Full Stack Developer,CodeBase,"Austin, TX",Negotiable,Full-time,"AWS, React",10/21/2024
+JID-9055,Frontend Developer,InnovateX,Remote,Negotiable,Contract,"C++, Kubernetes",10-05-2024
+JID-3420,Software Engineer,TechCorp,"Los Angeles, CA",,Full-time,"Docker, SQL",7/23/2024
+JID-2283,Frontend Developer,CodeBase,Remote,,Full-time,"Python, Node.js, TensorFlow, C++, Kubernetes",1/25/2023
+JID-7441,Backend Developer,ML Insights,"Chicago, IL",Negotiable,Part-time,"Node.js, SQL",11-02-2025
+JID-3201,Software Engineer,AI Solutions,Remote,$69k,Part-time,"TensorFlow, Kubernetes, SQL, C++",9/19/2023
+JID-6683,Product Manager,DevMasters,"Seattle, WA",,Part-time,"Docker, TensorFlow, C++, AWS",6/23/2023
+JID-4252,Data Scientist,DevMasters,"New York, NY",$73k,Part-time,"TensorFlow, Kubernetes",02-05-2025
+JID-1391,Full Stack Developer,CodeBase,"Seattle, WA",$148k,Part-time,"Kubernetes, AWS, Python, TensorFlow",2/23/2024
+JID-6502,Cybersecurity Analyst,DevMasters,"Boston, MA",Negotiable,Full-time,"SQL, Docker, Kubernetes",7/19/2024
+JID-3986,Cloud Architect,DataWave,"Boston, MA",Negotiable,Contract,"AWS, React",8/27/2025
+JID-3396,AI Engineer,CloudNet,Remote,,Contract,"Docker, Kubernetes",10/25/2025
+JID-9115,Frontend Developer,CloudNet,Remote,$147k,Contract,"React, SQL, Python, Java, AWS",5/21/2025
+JID-3769,DevOps Engineer,ML Insights,Remote,,Contract,"Docker, React, C++, Node.js",04-01-2025
+JID-8750,DevOps Engineer,WebWorld,"Austin, TX",$75k,Part-time,"Java, Docker",2/26/2024
+JID-7886,Cybersecurity Analyst,ML Insights,Remote,$79k,Part-time,"TensorFlow, Python, Docker, Node.js",04-04-2025
+JID-2366,Full Stack Developer,CyberSecure,"Boston, MA",,Contract,"Docker, Java, C++, AWS, SQL",5/20/2023
+JID-2878,Frontend Developer,CodeBase,"Seattle, WA",Negotiable,Part-time,"React, Node.js, Java, TensorFlow",10/24/2023
+JID-6515,Backend Developer,AI Solutions,"New York, NY",Negotiable,Full-time,"AWS, C++, TensorFlow, Python, React",10-10-2023
+JID-1219,DevOps Engineer,AI Solutions,Remote,Negotiable,Full-time,"Docker, AWS, SQL, Java",12/24/2025
+JID-3921,Data Scientist,ML Insights,"Los Angeles, CA",$135k,Contract,"React, Docker, AWS, SQL",8/14/2025
+JID-7659,Cloud Architect,WebWorld,"New York, NY",,Full-time,"TensorFlow, C++, Node.js, Java, AWS",6/23/2024
+JID-2408,Full Stack Developer,TechCorp,"San Francisco, CA",Negotiable,Full-time,"Node.js, React, Java",3/16/2025
+JID-9266,Product Manager,TechCorp,"Los Angeles, CA",$119k,Part-time,"C++, Python",7/15/2023
+JID-5068,Product Manager,CodeBase,"Austin, TX",Negotiable,Full-time,"Java, Docker, Kubernetes, TensorFlow",6/27/2024
+JID-3739,Product Manager,ML Insights,"New York, NY",,Full-time,"Docker, React, C++, TensorFlow",7/19/2024
+JID-2667,AI Engineer,CodeBase,"Seattle, WA",$101k,Full-time,"C++, TensorFlow, Python, Kubernetes",05-11-2023
+JID-1402,Frontend Developer,,"Boston, MA",$70k,Full-time,"Docker, Python",1/24/2025
+JID-1863,Frontend Developer,AI Solutions,"Seattle, WA",,Full-time,"Python, TensorFlow, Java",10/24/2024
+JID-3850,Cybersecurity Analyst,TechCorp,Remote,,Part-time,"Node.js, Java, C++, Docker, Kubernetes",1/21/2024
+JID-4384,Product Manager,,"San Francisco, CA",$56k,Part-time,"Node.js, React, SQL, AWS, Docker",08-07-2024
