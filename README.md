@@ -60,11 +60,11 @@ Assumed sample schema (CSV or JSON format):
 
 **Notebook Outline:**
 
-1. `00_data_ingestion.ipynb` - Load and clean datasets
-2. `01_eda_summary.ipynb` - Exploratory data analysis and descriptive statistics
-3. `02_trend_analysis.ipynb` - Analyze title/salary/skill/AI roles over time
-4. `03_visualizations.ipynb` - Build charts using Seaborn/Matplotlib
-5. `04_report_generator.ipynb` - Export final visuals and generate PDF slide deck
+1. `data_ingestion.py` - Load and clean datasets
+2. `eda_summary.py` - Exploratory data analysis and descriptive statistics
+3. `trend_analysis.py` - Analyze title/salary/skill/AI roles over time
+4. `visualizations.py` - Build charts using Seaborn/Matplotlib
+5. `__init__.py` - Export final visuals and generate PDF slide deck
 
 ---
 
