@@ -1,4 +1,4 @@
-# # Analyzing Tech Job Trends (2023–2025) with Data-Driven Insights
+ # Analyzing Tech Job Trends (2023–2025) with Data-Driven Insights
 
 ### 1. Project Title + Description
 
@@ -23,17 +23,13 @@ Assumed sample schema (CSV or JSON format):
 | Column Name | Description |
 | --- | --- |
 | job_id | Unique identifier for the job listing |
-| title | Job title |
-| company | Hiring company name |
+| job_title | Job title |
+| company_name | Hiring company name |
 | location | Job location (city/state/country) |
-| date_posted | Date job was posted (YYYY-MM-DD) |
-| salary_min | Minimum salary offered |
-| salary_max | Maximum salary offered |
+| posting_date | Date job was posted (YYYY-MM-DD) |
+| salary | Salary offered |
 | employment_type | Full-time, part-time, contract, etc. |
 | skills | List of required skills (comma-separated) |
-| industry | Industry domain (e.g., Fintech, EdTech) |
-| year | Extracted year (2023, 2024, or 2025) |
-| ai_related | Boolean (True if job is AI-focused) |
 
 ---
 
